@@ -1,0 +1,199 @@
+@charset "utf-8";
+/* CSS Document */
+#anasayfa{
+	height:950px;
+	width:900px;
+	margin-left:450px;
+	float:left;
+	border:1px ridge;
+	}
+#anamenu{
+	height:150px;
+	width:900px;
+	float:left;
+	background-image:url(img/baslik1.png);
+	}
+#solmenu{
+	height:auto;
+	width:160px;
+	float:left;
+	}
+#sagmenu{
+	height:auto;
+	width:170px;
+	float:left;
+	display:block;
+	}
+#sagmenu1{
+	width:170px;
+	margin-left:27px;
+	height:auto;
+	border:1px dashed #33CCFF;
+	float:left;
+	}
+#sagmenu2{
+	width:170px;
+	margin-top:10px;
+	margin-left:27px;
+	height:auto;
+	border:1px dashed #33CCFF;
+	float:left;
+	}
+#sagmenu3{
+	width:170px;
+	margin-top:10px;
+	margin-left:27px;
+	height:auto;
+	border:1px dashed #33CCFF;
+	float:left;
+	}
+#sagmenu4{
+	width:170px;
+	margin-top:10px;
+	margin-left:27px;
+	height:auto;
+	border:1px dashed #33CCFF;
+	float:left;
+	}
+#sol1{
+	height:auto;
+	width:160px;
+	float:left;
+	border:1px dashed #33CCFF;
+	background-color:#E0F2ff;
+	}
+#sol2{
+	margin-top:10px;
+	height:auto;
+	width:160px;
+	float:left;
+	border:1px dashed #33CCFF;
+	background-color:#E0F2ff;
+	}
+#sol3{
+	margin-top:10px;
+	height:auto;
+	width:160px;
+	float:left;
+	border:1px dashed #33CCFF;
+	background-color:#E0F2ff;
+	}
+#sol4{
+	margin-top:10px;
+	height:auto;
+	width:160px;
+	float:left;
+	border:1px dashed #33CCFF;
+	background-color:#E0F2ff;
+	}
+#ogrt1{
+	width: 250px;
+	height: 20px;
+	float: left;
+	text-align: center;
+}
+#ogrt2{
+	width: 250px;
+	height: 20px;
+	float: left;
+	text-align: center;
+}
+#ogrt3{
+	width: 250px;
+	height: 20px;
+	float: left;
+	text-align: center;
+}
+.ornek{
+width: 520px;
+}
+.sola-kaydir{
+float:left;
+}
+#ogrt4{
+	width: 250px;
+	height: 20px;
+	float: left;
+	text-align: center;
+}
+#ogrt5{
+	width: 250px;
+	height: 20px;
+	float: left;
+	text-align: center;
+}
+#ogrt6{
+	width: 250px;
+	height: 20px;
+	float: left;
+	text-align: center;
+}
+#icerik{
+	width:532px;
+	height:600px;;
+	float:left;
+	}
+#icerik img{
+	alignment-adjust:central;
+}
+#icerik1{
+	width:532px;
+	margin-left:15px;
+	height:auto;
+	float:left;
+	border:1px dashed #33CCFF;
+	text-align:center;
+	background-color:#E0F2ff;
+	}
+#icerik2{
+	width:532px;
+	font-size:14px;
+	font-family:Verdana, Geneva, sans-serif;
+	margin-top:10px;
+	margin-left:15px;
+	height:auto;
+	float:left;
+	border:1px dashed #33CCFF;
+	background-color:#E0F2ff;
+	}
+#menum ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+	width:80px;
+	}
+#menum li{
+	position:relative;
+	}
+#menum li ul{
+	position:absolute;
+	list-style:none;
+	width:80px;
+	left:79px;
+	display:none;
+	top:0;
+	}
+#menum li a{
+	width:140px;
+	display:block;
+	color:#000;
+	margin-left:5px;
+	text-decoration:none;
+	padding:5px;
+	border-bottom:0;
+	background-color:#FFF;
+	}
+#menum li a:hover{
+	background-color:#E0F2ff;
+	}
+#menum li:hover ul{
+	display:block;
+	}
+*html ul li{
+	float:left;
+	height:1%;
+	}
+*html ul li a{
+	height:%1;
+	}
+
